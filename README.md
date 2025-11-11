@@ -116,9 +116,5 @@ $ CUDA_VISIBLE_DEVICES=1/2/3/4 python train.py -c configs/mfpd/mfpd_hgnetv2_l_UT
 
 
 
-## Acknowledgement
-
-Thanks MMDetection team for the wonderful open source project!
-
 
 
