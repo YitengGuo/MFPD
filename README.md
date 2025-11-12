@@ -112,7 +112,7 @@ $ CUDA_VISIBLE_DEVICES=1/2/3/4 python train.py -c configs/mfpd/mfpd_hgnetv2_l_UT
 
 ## Results
 
-![pipeline](./re.png)
+![pipeline](./result.png)
 
 
 
