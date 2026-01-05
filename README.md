@@ -114,7 +114,20 @@ $ CUDA_VISIBLE_DEVICES=1/2/3/4 python train.py -c configs/mfpd/mfpd_hgnetv2_l_UT
 
 ![pipeline](./result.png)
 
+## Cite This
+```
+@ARTICLE{11271843,
+  author={Guo, Yiteng and Xu, Junpeng and Wang, Jiali and Zhao, Wenyi and Zhang, Weidong},
+  journal={IEEE Signal Processing Letters}, 
+  title={MFPD: Mamba-Driven Feature Pyramid Decoding for Underwater Object Detection}, 
+  year={2026},
+  volume={33},
+  number={},
+  pages={141-145},
+  keywords={Feature extraction;Object detection;Adaptation models;Robustness;Computational modeling;Noise reduction;Noise;Interference;Decoding;Background noise;Underwater object detection;Mamba-Driven;collaborative pathway},
+  doi={10.1109/LSP.2025.3639347}}
 
+```
 
 
 
